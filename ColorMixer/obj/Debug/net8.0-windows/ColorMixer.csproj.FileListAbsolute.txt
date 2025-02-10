@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\bin\Debug\net8.0-windows\ColorMixer.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\bin\Debug\net8.0-windows\ColorMixer.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\bin\Debug\net8.0-windows\ColorMixer.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\bin\Debug\net8.0-windows\ColorMixer.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\bin\Debug\net8.0-windows\ColorMixer.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\refint\ColorMixer.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ColorMixer.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\ColorMixer\obj\Debug\net8.0-windows\ref\ColorMixer.dll
