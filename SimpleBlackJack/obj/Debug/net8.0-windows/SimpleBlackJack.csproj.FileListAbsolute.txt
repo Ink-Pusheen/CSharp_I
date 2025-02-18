@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\bin\Debug\net8.0-windows\SimpleBlackJack.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\bin\Debug\net8.0-windows\SimpleBlackJack.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\bin\Debug\net8.0-windows\SimpleBlackJack.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\bin\Debug\net8.0-windows\SimpleBlackJack.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\bin\Debug\net8.0-windows\SimpleBlackJack.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\refint\SimpleBlackJack.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\SimpleBlackJack.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SimpleBlackJack\obj\Debug\net8.0-windows\ref\SimpleBlackJack.dll
