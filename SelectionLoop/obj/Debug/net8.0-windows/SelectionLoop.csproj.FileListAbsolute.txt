@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\bin\Debug\net8.0-windows\SelectionLoop.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\bin\Debug\net8.0-windows\SelectionLoop.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\bin\Debug\net8.0-windows\SelectionLoop.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\bin\Debug\net8.0-windows\SelectionLoop.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\bin\Debug\net8.0-windows\SelectionLoop.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\refint\SelectionLoop.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\SelectionLoop.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\SelectionLoop\obj\Debug\net8.0-windows\ref\SelectionLoop.dll
