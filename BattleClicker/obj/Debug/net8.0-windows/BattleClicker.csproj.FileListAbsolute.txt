@@ -1,0 +1,17 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\bin\Debug\net8.0-windows\BattleClicker.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\bin\Debug\net8.0-windows\BattleClicker.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\bin\Debug\net8.0-windows\BattleClicker.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\bin\Debug\net8.0-windows\BattleClicker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\bin\Debug\net8.0-windows\BattleClicker.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.Properties.Resources.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\refint\BattleClicker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\BattleClicker.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\BattleClicker\obj\Debug\net8.0-windows\ref\BattleClicker.dll
