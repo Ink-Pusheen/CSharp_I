@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\bin\Debug\net8.0-windows\Error Catcher.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\bin\Debug\net8.0-windows\Error Catcher.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\bin\Debug\net8.0-windows\Error Catcher.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\bin\Debug\net8.0-windows\Error Catcher.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\bin\Debug\net8.0-windows\Error Catcher.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error_Catcher.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\refint\Error Catcher.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\Error Catcher.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Error Catcher\obj\Debug\net8.0-windows\ref\Error Catcher.dll
