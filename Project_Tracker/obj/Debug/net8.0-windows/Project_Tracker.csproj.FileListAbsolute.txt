@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\bin\Debug\net8.0-windows\Project_Tracker.exe
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\bin\Debug\net8.0-windows\Project_Tracker.deps.json
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\bin\Debug\net8.0-windows\Project_Tracker.runtimeconfig.json
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\bin\Debug\net8.0-windows\Project_Tracker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\bin\Debug\net8.0-windows\Project_Tracker.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.Form1.resources
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.AssemblyInfo.cs
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\refint\Project_Tracker.dll
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.pdb
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\Project_Tracker.genruntimeconfig.cache
+C:\Users\Home\Desktop\College Word docx-work\C#\Project_Tracker\obj\Debug\net8.0-windows\ref\Project_Tracker.dll
